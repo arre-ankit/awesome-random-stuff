@@ -1,3 +1,6 @@
+### March 8, 2026
+- [charmbracelet/vhs: Your CLI home video recorder 📼](https://github.com/charmbracelet/vhs) — Your CLI home video recorder 📼. Contribute to charmbracelet/vhs development by creating an account on GitHub.
+
 ### March 7, 2026
 - [saqibameen/can-i-publish: Check if your npm package name is actually publishable. Tests against npm's undocumented similarity filter.](https://github.com/saqibameen/can-i-publish) — Check if your npm package name is actually publishable. Tests against npm's undocumented similarity filter. - saqibameen/can-i-publish
 
