@@ -1,3 +1,6 @@
+### March 20, 2026
+- [The Agent Skills Directory](https://skills.sh/) — Discover and install skills for AI agents.
+
 ### March 8, 2026
 - [charmbracelet/vhs: Your CLI home video recorder 📼](https://github.com/charmbracelet/vhs) — Your CLI home video recorder 📼. Contribute to charmbracelet/vhs development by creating an account on GitHub.
 
